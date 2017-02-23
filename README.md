@@ -5,6 +5,7 @@ The aim of this assignment was to develop a book reservation web site using PHP 
 - Registration:
  * This allows a user to enter their details on the system. The registration process validates that all details are entered.
 - Search for a book:
+ 
  The system allows the user to search in a number of ways: 
  * by any one or any two or all three of the categories; title, author and category (allowing for partial search on all three)
  * book category description is a dropdown menu (book category is retrieved from database)
