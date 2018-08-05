@@ -1,4 +1,7 @@
 # LibraryWebsite
+
+This project was created as part of my Web Development module assignment in my 2nd year of college.
+
 The aim of this assignment was to develop a book reservation web site using PHP and MySQL database. The application allows users to search for and reserve library books. Specifically, the application enables the following:
 - Login:
  * The user must identify themselves to the system in order to use the system and throughout the whole site. If they have not previously used the system, they must register their details.
